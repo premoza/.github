@@ -1,20 +1,19 @@
-# prj-orion
+# Exotic-Homes
 
-A facebook messenger chatbot AI project where user can use AI freely without cooldown or limitation. Mj AI provides up to date information while keeping the conversation interesting.
+Rent, Buy and Sell Homes
+
+Get your luxurious,stylish,beautiful homes at Exotic,
+Elevate Your Living Experience: Exotic Homes, Redefining Modern Living.
 
 <br>
 
-**Full Featured**
+**Buy Properties** <br>
+Buy house,land from any where in the world with exotic homes by contacting a realestate a agent who owns or manage the property you are interested in.
 
-Trained to understand and respond to a wide range of commands and requests. It can understand natural language, process complex data, and provide accurate and timely responses. It can also learn from experiencers and adapt to new situations.
+**Sell Properties** <br>
+Advertise and sell properties such as land, houses from anywherein the world on exotic homes.
 
-**8,000+ Users**
+**Rent Properties** <br>
+Rent house from anywhere in the world, make payment for your rent comfortably without stress using several payment methods on exotic homes
 
-Providing a valuable service that poeple find useful. Strive to create a platform that is easy to use and provides helpful features that make poeple's lives easier.
-
-Learn more: https://mrepol742.github.io/project-orion
-
-### Chat.io
-
-Chat.io is a feature of Project Orion that's currently under development where in you can interact with the project AI. If you found any issues please let us know.h.
-https://mrepol742.github.io/project-orion/chat
+Learn more at https://Exotic-Homes.github.io
