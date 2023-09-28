@@ -1,6 +1,4 @@
-<h1 align="center">IntNext</h1>
-
-<h4 align="center">Rent, Buy and Sell Homes</h4>
+**IntNext - Rent, Buy and Sell Homes**
 
 Get your luxurious,stylish,beautiful homes at Exotic,
 Elevate Your Living Experience: Exotic Homes, Redefining Modern Living.
