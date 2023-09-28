@@ -1,25 +1,10 @@
-<img src="https://github.com/Exotic-Homes/.github/blob/main/profile/Exotic%20Homes.transparent.png" alt="Exotic Homes" width="600">
+<h1 align="center">IntNext</h1>
 
-Rent, Buy and Sell Homes
+<h4 align="center">Rent, Buy and Sell Homes</h4>
 
 Get your luxurious,stylish,beautiful homes at Exotic,
 Elevate Your Living Experience: Exotic Homes, Redefining Modern Living.
 
-<br>
-
-<img src="https://github.com/Exotic-Homes/.github/blob/main/profile/1.png" width="200">
-
-**Buy Properties** <br>
-Buy house,land from any where in the world with exotic homes by contacting a realestate a agent who owns or manage the property you are interested in.
-
-<img src="https://github.com/Exotic-Homes/.github/blob/main/profile/2.png" width="200">
-
-**Sell Properties** <br>
-Advertise and sell properties such as land, houses from anywherein the world on exotic homes.
-
-<img src="https://github.com/Exotic-Homes/.github/blob/main/profile/3.png" width="200">
-
-**Rent Properties** <br>
-Rent house from anywhere in the world, make payment for your rent comfortably without stress using several payment methods on exotic homes
-
-Learn more at https://Exotic-Homes.github.io
+| **Buy Properties** | **Sell Properties** | **Rent Properties** |
+|--------------------|---------------------|---------------------|
+|Buy house,land from any where in the world with exotic homes by contacting a realestate a agent who owns or manage the property you are interested in. | Advertise and sell properties such as land, houses from anywherein the world on exotic homes | Rent house from anywhere in the world, make payment for your rent comfortably without stress using several payment methods on exotic homes |
