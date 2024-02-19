@@ -22,4 +22,4 @@ For inquiries about our services or to discuss your real estate needs, please co
 
 Stay updated on the latest news, trends, and insights in the real estate industry by following us on social media:
 
-- [Facebook](https://www.facebook.com/profile.php?id=61550920919855&mibextid=LQQJ4d)
+- [Facebook](https://www.facebook.com/premozaofficial)
