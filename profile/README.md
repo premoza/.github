@@ -1,20 +1,25 @@
 <img src="https://media1.giphy.com/media/fDers1vZjjKFy/200w.gif?cid=6c09b952e92hgyhehjv0g9bc7tvk9kkqcet2rvxi8tg8f4ao&ep=v1_gifs_search&rid=200w.gif&ct=g" align="right" width="200px"/>
 
-# intnext-realestate
+# Premoza Real Estate
 
-Get your luxurious,stylish,beautiful homes at Exotic,
-Elevate Your Living Experience: Exotic Homes, Redefining Modern Living.
- 
+Premoza Real Estate is a leading real estate service provider dedicated to delivering exceptional property solutions tailored to our clients' needs. With a commitment to excellence, professionalism, and innovation, we strive to exceed expectations in every aspect of our service.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61550920919855&mibextid=LQQJ4d)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrepol742@gmail.com)
+## Our Services
 
-💰 **Support**
+- **Property Sales**: We specialize in facilitating the buying and selling of residential, commercial, and investment properties, providing comprehensive guidance and support throughout the process.
 
-[![Buy-Rent-Sell](https://img.shields.io/badge/Buy--Rent--Sell-F16061?style=for-the-badge)](https://intnext-realestate.github.io/buy)
-[![Open-Source-Platform](https://img.shields.io/badge/Open--Source--Platform-00457C?style=for-the-badge)](https://github.com/intnext-realestate)
-[![Excellent-Service](https://img.shields.io/badge/Excellent--Service-F96854?style=for-the-badge)](https://intnext-realestate.github.io)
-[![Secure-Payments-Portal](https://img.shields.io/badge/Secure--Payments--Portal-ffdd00?style=for-the-badge)](https://intnext-realestate.github.io)
+- **Property Management**: Our experienced team offers full-service property management solutions, ensuring the efficient and profitable management of your real estate assets.
 
-<br>
+- **Consulting Services**: Whether you're a first-time buyer, a seasoned investor, or a developer, our consultancy services provide valuable insights and strategic advice to help you make informed decisions.
 
+- **Market Analysis**: Leveraging our in-depth market knowledge and advanced analytical tools, we conduct thorough market analyses to help our clients identify lucrative investment opportunities and make sound investment decisions.
+
+## How to Reach Us
+
+For inquiries about our services or to discuss your real estate needs, please contact us at [mrepol742@gmail.com](mailto:mrepol742@gmail.com) or visit our website [premoza.github.io](https://premoza.github.io).
+
+## Connect with Us
+
+Stay updated on the latest news, trends, and insights in the real estate industry by following us on social media:
+
+- [Facebook](https://www.facebook.com/profile.php?id=61550920919855&mibextid=LQQJ4d)
