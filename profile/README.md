@@ -1,9 +1,9 @@
 # Premoza
 
 <img src="1.png" width="300px" length="300px">
-An innovative real estate e commerce platform powered by Solana and Starknet, enabling users to,buy, rent or sell properties and book hotels from anywhere in the world with just one click.
+A cutting-edge real estate e-commerce platform, powered by Solana and Starknet, allowing users to buy, rent, or sell properties and book hotels worldwide with a single click.
 <p>
-we focusing on utilizing blockchain technology to help solve major real estate problems across the globe, seamlessly make payment for rental services and hotel booking using Premoza, Tokenizing real estate assets for real estate devwlopers to sell and hand over ownership documents onchain, users will be able to recieve NFT receipt When you pay for premium service.</p>
+We are focused on leveraging smart contracts to address significant real estate challenges worldwide. Our platform enables seamless payments for rental services and hotel bookings using Premoza. Additionally, we offer real estate developers the ability to tokenize assets, facilitating the sale and transfer of ownership documents on-chain. Users who pay for premium services will also receive an NFT receipt as proof of transaction.</p>
 
 
 
