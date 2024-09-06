@@ -2,8 +2,9 @@
 
 <img src="1.png" width="300px" length="300px">
 An innovative real estate e commerce platform powered by Solana and Starknet, enabling users to,buy, rent or sell properties and book hotels from anywhere in the world with just one click.
-<br>
-we focusing on utilizing blockchain technology to help solve major real estate problems across the globe, seamlessly make payment for rental services and hotel booking using Premoza, Tokenizing real estate assets for real estate devwlopers to sell and hand over ownership documents onchain, users will be able to recieve NFT receipt When you pay for premium service.
+<p>
+we focusing on utilizing blockchain technology to help solve major real estate problems across the globe, seamlessly make payment for rental services and hotel booking using Premoza, Tokenizing real estate assets for real estate devwlopers to sell and hand over ownership documents onchain, users will be able to recieve NFT receipt When you pay for premium service.</p>
+
 
 
 # Why Solana and Starknet
