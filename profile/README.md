@@ -12,6 +12,6 @@ We are focused on leveraging smart contracts to address significant real estate 
 
 # Why Solana Blockchain
 
-We are building our real estate e-commerce platform on Solana to leverage the unique strengths of each blockchain.Solana, with its high throughput and low transaction fees, allows us to provide a seamless, fast, and affordable user experience for real-time interactions and payments. By utilizing the blockchain, we can create a platform that combines the best of decentralization, security, scalability, and performance for our users.
+We are building a real estate e-commerce platform on Solana to leverage the unique strengths of each blockchain.Solana, with its high throughput and low transaction fees, allows us to provide a seamless, fast, and affordable user experience for real-time interactions and payments. By utilizing the blockchain, we can create a platform that combines the best of decentralization, security, scalability, and performance for our users.
 
 
